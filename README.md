@@ -1,2 +1,0 @@
-# CDCreepyAscii
-Creepy.
